@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\bin\Debug\SistemaLivraria.exe.config
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\bin\Debug\SistemaLivraria.exe
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\bin\Debug\SistemaLivraria.pdb
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.dsSistemaLivraria.resources
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.frmAlterarExcluirLivros.resources
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.frmAlterarLivros.resources
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.frmCadastrarLivros.resources
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.frmConsultarLivros.resources
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.Principal.resources
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.Properties.Resources.resources
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.exe
+C:\Users\Lucas\Desktop\TesteHBSIS\SistemaLivraria\SistemaLivraria\obj\Debug\SistemaLivraria.pdb

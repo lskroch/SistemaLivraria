@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visao", "Visao\Visao.csproj", "{907E5792-A094-42A0-AFFD-6EDADD766760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{9BF3BCFE-743C-4AC6-99E5-70E030076A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Controle.csproj", "{CF4435D4-16A0-46D2-ABE2-B2DCC9F61025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907E5792-A094-42A0-AFFD-6EDADD766760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907E5792-A094-42A0-AFFD-6EDADD766760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907E5792-A094-42A0-AFFD-6EDADD766760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907E5792-A094-42A0-AFFD-6EDADD766760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF3BCFE-743C-4AC6-99E5-70E030076A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF3BCFE-743C-4AC6-99E5-70E030076A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF3BCFE-743C-4AC6-99E5-70E030076A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF3BCFE-743C-4AC6-99E5-70E030076A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4435D4-16A0-46D2-ABE2-B2DCC9F61025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4435D4-16A0-46D2-ABE2-B2DCC9F61025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4435D4-16A0-46D2-ABE2-B2DCC9F61025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4435D4-16A0-46D2-ABE2-B2DCC9F61025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
